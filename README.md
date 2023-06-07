@@ -1,2 +1,2 @@
-# OBI-problems
-Repositório com as resoluções de competições passadas da Olimpíada Brasileira de Informática(OBI)
+# OBI-competições-passadas
+Repositório com as possíveis resoluções de competições passadas da Olimpíada Brasileira de Informática(OBI).
